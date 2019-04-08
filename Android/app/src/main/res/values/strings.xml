@@ -3,6 +3,14 @@
 
     <string name="title_burrosBlancos">Burros Blancos</string>
 
+    <string name="title_menu1">por verse</string>
+    <string name="title_menu2">por verse</string>
+    <string name="title_menu3">por verse</string>
+    <string name="title_configuracion">Configuracion</string>
+    <string name="title_compartir">Compartir</string>
+    <string name="title_acerca">Acerca de</string>
+    <string name="title_comunicacion">Comunicacion</string>
+
 
     <string name="navigation_drawer_open">Open navigation drawer</string>
     <string name="navigation_drawer_close">Close navigation drawer</string>
